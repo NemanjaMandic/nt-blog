@@ -1,0 +1,26 @@
+.sidebar {
+    /* width: 30%;
+    position: absolute;
+    left: 0;
+    min-height: 100vh !important;
+    z-index: 100;
+    padding: 48px 0 0; */
+    box-shadow: inset -1px 0 0 rgba(0, 0, 0, .1)
+}
+
+.post__header {
+    background-color: aliceblue;
+    display: flex;
+    justify-content: space-between;
+}
+
+.post__thumbnails {
+    display: flex;
+    justify-content: center;
+}
+
+.spinner {
+    position: absolute;
+    right: 50%;
+    margin-left: -50%;
+}
